@@ -1,0 +1,15 @@
+﻿{
+  "host": "HOST",
+  "database": "DATABASE",
+  "username": "username",
+  "password": "password",
+  "sourcepath": "C:\\Users\\dev\\src\\App\\bin",
+  "targetpath": "\\\\HOST\\www\\APP\\Production\\bin",
+  "backuppath": "\\\\HOST\\temp\\AutoBackup\\",
+  "replacingfile": [
+    "First.dll",
+    "Second.Replace.dll",
+    "Third.Replace.File.dll"
+  ]
+
+}
